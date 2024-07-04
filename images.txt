@@ -4,8 +4,7 @@ httpd:latest
 nginx:latest
 busybox:latest
 busybox:1.36
-prom:latest
-node-exporter:latest
+prom/node-exporter:latest
 grafana:latest
 grafana:latest
 prom/prometheus:latest
