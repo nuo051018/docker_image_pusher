@@ -10,7 +10,7 @@ grafana:latest
 prom/prometheus:latest
 nginx:1.20
 nginx:1.22       
-nginx:mysql:8.0
+mysql:8.0
 registry.k8s.io/ingress-nginx/kube-webhook-certgen:v20230407
 registry.k8s.io/ingress-nginx/controller:v1.8.0
 kubernetesui/metrics-scraper:v1.0.8
