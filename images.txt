@@ -1,1 +1,1 @@
-ftpd:latest
+prom/prometheus:v2.53.0
