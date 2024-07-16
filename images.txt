@@ -1,1 +1,1 @@
-prom/prometheus:v2.53.0
+cadvisor-arm64.v0.49.1
