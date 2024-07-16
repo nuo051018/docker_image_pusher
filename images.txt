@@ -1,1 +1,1 @@
-cadvisor-arm64.v0.49.1
+cadvisor-arm64:v0.49.1
