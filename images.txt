@@ -1,1 +1,1 @@
-php:latest
+php:8.1-fpm
