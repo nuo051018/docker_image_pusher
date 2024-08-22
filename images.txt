@@ -1,1 +1,1 @@
-tomcat:latest
+php:latest
