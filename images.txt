@@ -1,1 +1,1 @@
-zabbix/zabbix-agent:latest
+prom/node-exporter：v1.81
