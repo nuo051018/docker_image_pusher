@@ -1,1 +1,1 @@
-prom/node-exporter：v1.81
+controller:v1.11.2
